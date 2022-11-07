@@ -1,5 +1,7 @@
 #!/bin/bash
 #USAGE
+#curl -v https://raw.githubusercontent.com/bu11ettrain/sht/main/lmc810.sh |bash -s on
+#curl -v https://raw.githubusercontent.com/bu11ettrain/sht/main/lmc810.sh |bash -s off
 
 function usage() {
         bname=`basename $0`
